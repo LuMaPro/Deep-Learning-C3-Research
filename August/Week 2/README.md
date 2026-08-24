@@ -3,12 +3,6 @@
 
 ## Overview
 
-With the problem specified in Week 1, this week was dedicated to **surveying the two viable answers to the annotation bottleneck** identified in the clinical meeting: either *learn the representation from our own unlabeled slides* through self-supervised pre-training, or *inherit it* from a foundation model already pre-trained on the same kind of material. Each of the two papers read this week is the strongest published instance of one of those options, and both operate on liquid-based cervical cytology digitized as WSI — the exact data setting of this project.
-
----
-
-## Activities
-
 | # | Activity | Output | Hours |
 |---|---|---|---|
 | 1 | Paper reading — Stegmüller et al. (2024), self-supervised learning for cervical cytology in a low-data regime | [Paper-Stegmuller.md](Paper-Stegmuller.md) | 4 h |
