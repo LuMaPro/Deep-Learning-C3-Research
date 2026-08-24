@@ -3,12 +3,6 @@
 
 ## Overview
 
-The opening week of the project was dedicated to **defining the problem before touching any model**: mapping out the space of decisions (datasets, label granularity, candidate architectures, evaluation criteria) and then deciding what the input data actually is, and what the label actually means. The second one was settled in a technical meeting with the clinical collaborator of the project.
-
----
-
-## Activities
-
 | # | Activity | Output | Hours |
 |---|---|---|---|
 | 1 | Problem formulation and scoping | [Problem's scratch.png](Problem's%20scratch.png) | 3 h |
